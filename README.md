@@ -1,1 +1,3 @@
 # Spoj
+
+Example solucions
